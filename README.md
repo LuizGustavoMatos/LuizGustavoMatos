@@ -6,7 +6,6 @@
 ## MEIOS DE CONTATO
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 #
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGustavoMatos&show_icons=true&bg_color=00000000&title_color=&hide_border=true&ring_color=a83232)
 
 
 
